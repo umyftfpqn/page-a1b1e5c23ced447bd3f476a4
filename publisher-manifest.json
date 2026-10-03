@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cc3a7d2f8b10d41ca4eb6a17",
+  "owner": "umyftfpqn",
+  "repo": "page-a1b1e5c23ced447bd3f476a4",
+  "title": "三次云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a1b1e5c23ced447bd3f476a4",
+      "a": "三次云",
+      "b": "",
+      "entity": "三次云",
+      "brand": "三次云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "73a65164a054764999790c9fbb38f56c5863b3bdb250b2352ba5e983ceb5cda6",
+      "content": {
+        "keyword1": "三次云",
+        "keyword2": "",
+        "primary_entity": "三次云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "三次云提供稳定高速的VPN梯子与机场订阅服务，覆盖全球优质节点与多端客户端官方下载，适用于流媒体、游戏加速与跨境办公，欢迎访问三次云官网获取套餐与使用说明。",
+          "AI_DESCRIPTION": "三次云提供稳定高速的VPN梯子与机场订阅服务，覆盖全球优质节点与多端客户端官方下载，适用于流媒体、游戏加速与跨境办公，欢迎访问三次云官网获取套餐与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e6f1f8;line-height:1.7;font-size:16px}a{color:#5eead4}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#0b1c32;border-bottom:1px solid #16324d;padding:12px 0}.brand{font-size:20px;font-weight:700;color:#5eead4;text-decoration:none}nav{margin-top:8px}nav a{color:#9fd9d4;text-decoration:none;margin-right:12px;font-size:14px}main{padding:8px 0 32px}.lead{font-size:17px;color:#c5d9e8;margin-bottom:16px}h1{font-size:26px;color:#fff;margin:20px 0 10px;line-height:1.3}h2{font-size:20px;color:#5eead4;margin:28px 0 12px;padding-left:10px;border-left:4px solid #22d3c5}h3{font-size:17px;color:#a5f3fc;margin:16px 0 8px}p{margin:0 0 12px;color:#c5d9e8}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0}.card{flex:1 1 260px;background:#10263d;border:1px solid #1e3a56;border-radius:8px;padding:16px}.card.featured{border:2px solid #22d3c5;background:#123048}.tag{display:inline-block;background:#22d3c5;color:#042f2e;font-size:12px;font-weight:700;padding:2px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:22px;color:#5eead4;font-weight:700;margin:6px 0}.annual{font-size:13px;color:#94c4c0;margin-bottom:8px}.card ul{padding-left:18px;margin:8px 0;color:#b7d0e0;font-size:14px}.card li{margin-bottom:4px}.btn{display:inline-block;background:#14b8a6;color:#042f2e;text-decoration:none;padding:8px 14px;border-radius:6px;font-weight:700;font-size:14px;margin-top:8px}.note{font-size:14px;color:#8aa4b8}details{background:#10263d;border:1px solid #1e3a56;border-radius:6px;padding:10px 14px;margin-bottom:8px}summary{color:#5eead4;font-weight:600}details p{margin:8px 0 0;font-size:15px}.steps{padding-left:22px;margin:8px 0 16px}.steps li{margin-bottom:8px}footer{background:#06101c;padding:24px 0;color:#8aa4b8;font-size:14px;border-top:1px solid #16324d}footer h2{font-size:16px;margin-top:16px}.flink a{color:#7fdbd4;text-decoration:none;margin-right:12px;display:inline-block;margin-bottom:6px}@media (max-width:640px){h1{font-size:22px}nav a{display:inline-block;margin-bottom:4px}.card{flex-basis:100%}.brand{font-size:18px}}</style><header><div class=\"wrap\"><a class=\"brand\" href=\"#\">三次云</a><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">节点线路</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><h1>三次云 — 官方机场订阅与 VPN 网络加速</h1><p class=\"lead\">三次云是面向个人与团队的机场订阅与 VPN 加速服务。本页为三次云官网信息入口，集中说明套餐、全球节点、多端客户端下载与导入步骤，方便你按设备完成配置并稳定使用网络加速。</p><section id=\"intro\"><h2>品牌简介</h2><p>三次云围绕跨境访问、流媒体播放与低延迟游戏需求提供机场订阅。用户在三次云官网选定套餐后即可获取订阅链接，再导入 Clash、v2rayN、Shadowrocket 等常用客户端，按地区与用途切换节点。</p><p>线路侧采用 BGP 中转与 IPLC/IEPL 专线搭配：日常浏览走优质中转，对延迟敏感的游戏与会议走专线分组。节点覆盖香港、东京、新加坡、洛杉矶、伦敦等地，并按流媒体、标准代理、游戏加速进行分组，减少晚高峰互相抢占。</p><p>三次云强调官方渠道获取订阅与客户端说明。请通过本站套餐与客户端专区完成选择，避免来源不明的镜像页或二次分发链接，以降低配置错误与账号风险。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>三次云提供按月与按年两种结算方式。年付可锁定当前单价。请按同时在线设备数、流量与线路需求选择，旗舰版适合大多数需要流媒体解锁与游戏加速的用户。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#clients\">去选客户端</a></article><article class=\"card featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#clients\">去选客户端</a></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#clients\">去选客户端</a></article></div><p class=\"note\">流量按自然月统计，套餐升级后立即生效新额度。团队版适合工作室、跨境电商与多设备办公场景。</p></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>三次云不绑定单一闭源客户端，订阅兼容主流开源与商业代理工具。请先确认系统，再下载对应应用，最后把三次云订阅链接粘贴到「订阅 / 配置」栏并更新节点。下列入口均为本页锚点说明，便于对照操作。</p><div class=\"cards\"><article class=\"card\"><h3>Windows</h3><p>推荐 Clash Verge 或 v2rayN。导入订阅后开启系统代理，浏览器与终端即可走三次云节点。游戏可配合 TUN 模式。</p><a class=\"btn\" href=\"#guide\">Windows 导入步骤</a></article><article class=\"card\"><h3>macOS</h3><p>常用 ClashX Meta 或 Surge。菜单栏可快速切换香港、日本与美国节点，适合会议与设计素材下载。</p><a class=\"btn\" href=\"#guide\">macOS 导入步骤</a></article><article class=\"card\"><h3>Android</h3><p>推荐 Clash Meta for Android 或 NekoBox。支持分应用代理，仅让浏览器、视频与游戏走加速，节省流量。</p><a class=\"btn\" href=\"#guide\">Android 导入步骤</a></article><article class=\"card\"><h3>iOS</h3><p>可使用 Shadowrocket、Stash 或 Quantumult X。在 App Store 安装后添加订阅，建议开启 UDP 转发以提升通话与游戏体验。</p><a class=\"btn\" href=\"#guide\">iOS 导入步骤</a></article><article class=\"card\"><h3>Linux</h3><p>桌面可用 Clash Meta 图形前端，服务器可用 sing-box 或 mihomo 命令行。适合开发编译与远程仓库同步。</p><a class=\"btn\" href=\"#guide\">Linux 导入步骤</a></article><article class=\"card\"><h3>路由器</h3><p>OpenWrt 可安装 Mihomo / PassWall。全家设备共用一次订阅，注意团队版或旗舰版的同时在线与带宽更合适。</p><a class=\"btn\" href=\"#guide\">路由配置要点</a></article></div><p class=\"note\">客户端本体请从各项目官方发布渠道获取，三次云官网只提供订阅兼容说明与导入顺序，避免把内核与配置混为一谈。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容创作</h3><p>旗舰版与团队版对常见影视、音乐与设计素材站点做了原生解锁分组。创作人员可在下载片源、参考国际站教程时保持较高带宽，减少缓冲中断。</p><h3>游戏加速</h3><p>IPLC 专线针对热门对战与主机在线服务做了延迟优化。建议游戏走独立策略组，聊天与补丁下载走标准节点，避免互相挤占。</p><h3>跨境办公与会议</h3><p>文档协作、代码托管与视频会议可固定新加坡或日本低抖动节点。团队版支持更多设备同时在线，适合笔记本、手机与会议室终端共用。</p><h3>学术检索与公开资料</h3><p>访问国际期刊、预印本与开源文档时，选择教育流量友好的标准线路即可。基础版可满足轻度检索，持续下载建议升级流量包。</p></section><section id=\"guide\"><h2>操作说明</h2><p>完成三次云订阅到成功联网，通常只需要五步。请按顺序操作，遇到证书或 TUN 权限提示时以系统对话框为准。</p><ol class=\"steps\"><li>在套餐区选择基础版、旗舰版或团队版，按年付可降低月均费用。</li><li>在用户中心复制机场订阅链接，保持链接私密，不要公开发布。</li><li>根据设备进入客户端专区，安装对应应用并授予 VPN / 网络扩展权限。</li><li>在客户端添加订阅、更新节点列表，优先选择名称含流媒体或 IPLC 的分组。</li><li>开启系统代理或 TUN，用浏览器访问目标站点验证；游戏请改用对应加速节点后再启动。</li></ol><h3>导入失败时的检查顺序</h3><p>先确认订阅未过期且流量未用尽，再检查系统时间是否准确。若节点列表为空，删除旧订阅后重新添加。移动端需允许本地网络与 VPN 配置。路由固件请核对 DNS 与防火墙是否放行代理端口。</p></section><section id=\"nodes\"><h2>节点与线路说明</h2><p>三次云节点按地区与用途划分：香港、东京适合综合访问；新加坡适合东南亚业务；洛杉矶与伦敦适合欧美内容与开发工具。标准中转满足网页与轻量下载，IPLC 专线用于游戏与实时音视频。</p><p>晚高峰启用智能分流，把大文件下载与实时会话拆到不同出口。流媒体解锁节点独立计路径，降低被牵连封锁的概率。团队版另有高带宽 VIP 出口，适合多成员同时拉取大资源。</p><p>我们持续淘汰高负载与高丢包线路，并在三次云官网更新可用地区说明。用户只需定期在客户端点击「更新订阅」，无需手动改配置文件。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>三次云是什么？和普通 VPN 有何不同？</summary><p>三次云是机场订阅服务：一份订阅可在多款客户端中使用，并按地区、流媒体、游戏等策略切换节点。相对单一入口的传统 VPN，三次云更强调多端导入、线路分组与按需选择出口。</p></details><details><summary>如何从三次云官网完成客户端下载与配置？</summary><p>先在本页客户端专区确认系统，安装 Clash、v2rayN、Shadowrocket 等兼容应用，再把三次云订阅链接粘贴到客户端的订阅栏并更新。详细顺序见操作说明，链接仅使用页内锚点便于对照。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>轻度浏览与三台设备以内可选基础版。需要全节点流媒体解锁、IPLC 游戏优化和优先工单时选旗舰版。二十台设备、企业定制路由或专属客户经理请选团队版。</p></details><details><summary>三次云支持哪些设备同时在线？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。手机、电脑与路由器均计入在线数。若全家走路由，建议直接使用旗舰版或团队版以免挤占名额。</p></details><details><summary>能否解锁流媒体，游戏延迟如何？</summary><p>旗舰版与团队版提供全节点原生流媒体解锁，并对热门游戏做了 IPLC 专线优化。实际延迟因运营商与所处城市而异，一般优先选择地理更近的专线分组。</p></details><details><summary>流量用完或需要给团队开票怎么办？</summary><p>可升级到更高套餐立即获得新额度，或等待自然月重置。团队版可联系专属客户经理处理对公需求与路由定制，不要在非官方渠道提交账号信息。</p></details></section><section id=\"about\"><h2>官方身份与使用提醒</h2><p>本页为三次云官方网站内容页，用于说明机场订阅、VPN 网络加速与客户端下载路径。请认准三次云品牌名称，勿在社交群里轻信代充或来路不明的配置文件。</p><p>网络加速服务须遵守你所在地区的法律法规与目标网站条款。三次云仅提供连接能力与客户端兼容说明，不保存浏览内容，也不对用户访问的具体站点承担责任。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>三次云官方网站 · 机场订阅 · VPN 梯子网络加速 · 客户端下载</p><h2>网站地图</h2><p class=\"flink\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">节点线路</a><a href=\"#faq\">常见问题</a><a href=\"#about\">官方说明</a></p><h2>友情链接</h2><p class=\"flink\"><a href=\"#\">远程办公手册</a><a href=\"#\">开源代理文档</a><a href=\"#\">网络安全基础</a><a href=\"#\">流媒体地区指南</a><a href=\"#\">路由固件笔记</a></p><h2>合作信息</h2><p>广告与商务合作请通过三次云官网公示渠道联系。本页仅保留文字说明，不嵌入第三方脚本或跳转框，避免干扰客户端下载指引。</p><p>© 三次云 保留所有权利。访问三次云官网即表示你已阅读套餐、客户端与合规说明。</p></div></footer>",
+          "hash": "94c4fb2959d04227ef4278e0c6ed979203eae7717f64a48c79f4331733ce2a4d",
+          "seo": {
+            "title": "三次云官网 | VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "三次云,三次云VPN,三次云机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,Clash客户端",
+            "description": "三次云提供稳定高速的VPN梯子与机场订阅服务，覆盖全球优质节点与多端客户端官方下载，适用于流媒体、游戏加速与跨境办公，欢迎访问三次云官网获取套餐与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "waukre.cn",
+    "host": "p-fec7c7443d.waukre.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "qqqwwweee3.cn",
+      "url": "https://qqqwwweee3.cn/",
+      "label": "三次云",
+      "apex": "qqqwwweee3.cn",
+      "kind": null,
+      "identity": "jmsumq/page-b9892c5b38b296889e7ccdb3"
+    },
+    {
+      "host": "xn--naikocloud-cn3r594m.com",
+      "url": "https://xn--naikocloud-cn3r594m.com/",
+      "label": "三次云",
+      "apex": "xn--naikocloud-cn3r594m.com",
+      "kind": null,
+      "identity": "bunoobu/page-ddc27e3959452b2dcff5cbd6"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "13a2d1ffb9857f6bdac3b374032817c289e5b9c69c371fef9a2ab968df296027",
+    "sitemap.xml": "0a1141f536b816408f940c90b18f681a7ffdbfd5f03a069c4aeba44748ac7047",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2422630d9dce1a96c567dc35ed813ab3d505edb875ca158ae9a115f0eb3b2814",
+    "robots.txt": "247ee48bcbe97d49797fde81d333b1d980989b134ffd6be1f2f5b5bfd673b163",
+    "44eed338a24796886ec05671c86fd2de.txt": "b7c14b86c224d5f6f02ba14e689c11cac33d44ff472b57c7ac060bf0838b2ff2"
+  },
+  "revision": "21ad69036fdb5c4b4e368306c7f71ebec248a72da4284f22335332c7e1d5532c"
+}
